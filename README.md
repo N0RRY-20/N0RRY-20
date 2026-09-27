@@ -30,18 +30,19 @@
 
 ```bash
 $ whoami
-> norry-20 // fullstack developer // business systems builder
+> norrydev // fullstack developer // ai-integrated systems // business systems builder
 
 $ cat mission.txt
 I build software for actual operations, not demo-only products.
 That means transaction flow, reporting, access control, data integrity,
-and interfaces that real users can work with every day.
+practical AI automation, and interfaces that real users can work with every day.
 
 $ cat core_principles.json
 {
   "database_first_logic": "Critical calculations belong in the backend or database layer.",
   "strict_typing": "Type safety is part of reliability, not decoration.",
   "operator_friendly_ui": "If admin, cashier, or staff struggle to use it, the system is not finished.",
+  "practical_ai": "AI belongs in the workflow to parse documents and cut repetitive admin chores, not for visual gimmick.",
   "production_mindset": "Clean structure, real data, and deployable architecture matter."
 }
 ```
@@ -98,8 +99,7 @@ $ cat core_principles.json
 |---|---|---|
 | [**pos-manajemen**](https://github.com/N0RRY-20/pos-manajemen) | Point of sale and store management system for real transaction flow and daily store operations. | `Laravel` `Blade` `MySQL` |
 | [**tk-project-2026**](https://github.com/N0RRY-20/tk-project-2026) | School operations platform covering admin workflows, structured data, and deployment to production. | `TypeScript` `Next.js` `Vercel` |
-| [**MERN-FRONTEND**](https://github.com/N0RRY-20/MERN-FRONTEND) | Frontend client for a MERN application with a clean React-based user experience. | `TypeScript` `React` |
-| [**MERN-BACKEND**](https://github.com/N0RRY-20/MERN-BACKEND) | Express API layer built to support application logic, data flow, and deployment. | `TypeScript` `Express` |
+| [**bengkel--app-backend**](https://github.com/N0RRY-20/bengkel--app-backend) | Backend service for workshop operations, handling business logic, data flow, and API support for daily service processes. | `TypeScript` `Backend API` |
 
 <div align="center">
 
@@ -109,16 +109,13 @@ $ cat core_principles.json
 <a href="https://github.com/N0RRY-20/tk-project-2026">
   <img src="https://img.shields.io/badge/tk--project--2026-Source_Code-0f172a?style=for-the-badge&logo=github&logoColor=06b6d4" alt="tk project source code" />
 </a>
-<a href="https://github.com/N0RRY-20/MERN-FRONTEND">
-  <img src="https://img.shields.io/badge/MERN--FRONTEND-Source_Code-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="mern frontend source code" />
-</a>
-<a href="https://github.com/N0RRY-20/MERN-BACKEND">
-  <img src="https://img.shields.io/badge/MERN--BACKEND-Source_Code-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="mern backend source code" />
+<a href="https://github.com/N0RRY-20/bengkel--app-backend">
+  <img src="https://img.shields.io/badge/bengkel--app--backend-Source_Code-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="bengkel backend source code" />
 </a>
 
 <br/><br/>
 
-Live demos: [MERN Frontend](https://mern-frontend-two-beta.vercel.app) | [MERN Backend](https://mern-backend-mu-seven.vercel.app) | [TK Project 2026](https://tk-project-2026.vercel.app) | [Portfolio](https://www.norrydev.my.id/)
+Live demos: [TK Project 2026](https://tk-project-2026.vercel.app) | [Portfolio](https://www.norrydev.my.id/)
 
 </div>
 
@@ -177,6 +174,9 @@ Live demos: [MERN Frontend](https://mern-frontend-two-beta.vercel.app) | [MERN B
 </a>
 <a href="https://github.com/N0RRY-20">
   <img src="https://img.shields.io/badge/GitHub-N0RRY--20-0f172a?style=for-the-badge&logo=github&logoColor=06b6d4" alt="github profile" />
+</a>
+<a href="https://github.com/norrywu">
+  <img src="https://img.shields.io/badge/GitHub-norrywu-0f172a?style=for-the-badge&logo=github&logoColor=22c55e" alt="second github profile" />
 </a>
 <a href="https://tk-project-2026.vercel.app">
   <img src="https://img.shields.io/badge/Live_Demo-TK_Project-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="live demo" />
